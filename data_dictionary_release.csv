@@ -1,0 +1,12 @@
+table,column,description,type
+artists,artist_mbid,Stable MusicBrainz artist identifier,string
+artists,artist_name,Canonical artist name,string
+artists,top_tags,Up to five highest-count MusicBrainz tags separated by |,string
+releases,release_id,Stable MusicBrainz release identifier,string
+releases,release_year,Year recorded in the release date,string
+releases,track_count,Number of tracks on the first medium,integer
+releases,has_cover_art,Whether MusicBrainz marks front cover art as available,boolean
+pageviews,date,UTC pageview date in YYYYMMDD format,string
+pageviews,views,English Wikipedia all-access user pageviews,integer
+artist_attention_summary,total_pageviews,Sum of captured daily pageviews,integer
+artist_attention_summary,release_count,Distinct releases linked to the artist,integer

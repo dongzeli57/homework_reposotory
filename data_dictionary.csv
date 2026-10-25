@@ -1,0 +1,27 @@
+column_name,description,data_type,source,nullable
+artist_mbid,MusicBrainz artist identifier,string,MusicBrainz,no
+artist_name,Canonical artist name,string,MusicBrainz,no
+artist_type,Artist type such as Person or Group,string,MusicBrainz,yes
+country,Country associated with the artist,string,MusicBrainz,yes
+disambiguation,MusicBrainz clarification for artists with similar names,string,MusicBrainz,yes
+gender,Gender field when supplied by MusicBrainz,string,MusicBrainz,yes
+area,Artist area or region,string,MusicBrainz,yes
+tags,Semicolon-separated MusicBrainz tags,string,MusicBrainz,yes
+aliases,Semicolon-separated alternate artist names,string,MusicBrainz,yes
+begin_date,Artist start date,string,MusicBrainz,yes
+release_mbid,MusicBrainz release identifier,string,MusicBrainz,yes
+release_title,Title of a release,string,MusicBrainz,yes
+release_date,Release date or year,string,MusicBrainz,yes
+release_country,Release country,string,MusicBrainz,yes
+release_status,Release status such as official or bootleg,string,MusicBrainz,yes
+release_packaging,Release packaging such as jewel case,string,MusicBrainz,yes
+release_barcode,Release barcode,string,MusicBrainz,yes
+release_disambiguation,MusicBrainz release clarification,string,MusicBrainz,yes
+release_language,Language field from the release text representation,string,MusicBrainz,yes
+media_count,Number of media units in the release,integer,MusicBrainz,no
+track_count,Number of tracks returned for the release,integer,MusicBrainz,no
+wiki_title,Matched Wikimedia page title,string,Wikimedia,yes
+pageview_date,UTC date of the pageview observation,date,Wikimedia,no
+pageviews,Aggregate pageviews for the matched page,integer,Wikimedia,no
+source_url,URL used to obtain the observation,string,Both,no
+collected_at,UTC timestamp when the record was collected,datetime,Collector,no
