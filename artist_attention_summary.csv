@@ -1,0 +1,43 @@
+artist_mbid,artist_name,artist_type,gender,country,begin_year,disambiguation,top_tags,source,release_count,first_release_year,last_release_year,total_pageviews,median_daily_views,pageview_days
+e0bba708-bdd3-478d-84ea-c706413bedab,A. R. Rahman,Person,male,IN,1967,,classical|soundtrack|indian|film score|world fusion,MusicBrainz,100,1990,1997,63878,2052,30
+cc2c9c3c-b7bc-4b8b-84d8-4fbd8779e493,Adele,Person,female,GB,1988,UK soul/jazz singer,pop|soul|blue-eyed soul|pop soul|neo soul,MusicBrainz,100,2005,2011,125704,4199,30
+2f9ecbed-27be-40e6-abca-6de49d50299e,Aretha Franklin,Person,female,US,1942,,soul|gospel|southern soul|deep soul|jazz,MusicBrainz,100,1956,1976,136849,4140,30
+f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387,Ariana Grande,Person,female,US,1993,,pop|r&b|dance-pop|contemporary r&b|dance,MusicBrainz,98,2011,2014,275088,9025,30
+ed3f4831-e3e0-4dc0-9381-f5649e9df221,Arijit Singh,Person,male,IN,1987,,bollywood|filmi|indian pop|gaana,MusicBrainz,100,2010,2023,0,,0
+89aa5ecb-59ad-46f5-b3eb-2d424e941f19,Bad Bunny,Person,male,PR,1994,,reggaeton|trap latino|latin|latin trap|hip hop,MusicBrainz,94,2016,2018,113278,3759,30
+859d0860-d480-4efd-970c-c05d5f1776b8,Beyoncé,Person,female,US,1981,,pop|r&b|pop rap|contemporary r&b|soul,MusicBrainz,100,2002,2006,214686,6796,30
+f4abc0b5-3f7a-4eff-8f78-ac078dbce533,Billie Eilish,Person,female,US,2001,,electropop|alternative pop|pop|dark pop|alternative r&b,MusicBrainz,100,2015,2019,191796,5537,30
+48646387-1664-4c9a-9139-9bfd091b823c,BLACKPINK,Group,,KR,2016,,k-pop|girl group|3rd gen k-pop|pop|female vocals,MusicBrainz,100,2016,2019,328,11,30
+72c536dc-7137-4477-a521-567eeb840fa8,Bob Dylan,Person,male,US,1941,,folk rock|folk|rock|blues rock|singer-songwriter,MusicBrainz,100,1956,1973,214194,7063,30
+afb680f2-b6eb-4cd7-a70b-a63b25c763d5,Bruno Mars,Person,male,US,1985,US singer,pop|funk|r&b|hip hop|contemporary r&b,MusicBrainz,100,1990,2013,327446,9836,30
+0d79fe8e-ba27-4859-bb8c-2f255f346853,BTS,Group,,KR,2013,South Korean boy group,k-pop|pop|boy group|dance|hip hop,MusicBrainz,100,2013,2018,174631,5367,30
+2f3c4d70-0462-40da-bba3-0aec5772c556,Cardi B,Person,female,US,1992,American rapper,hip hop|pop|east coast hip hop|alternative pop|hardcore hip hop,MusicBrainz,100,2015,2019,130127,4286,30
+2f522f5c-111c-4ce8-8bd0-d82e97c227ad,Daddy Yankee,Person,male,PR,1977,,reggaeton|latin urban|latin|hip hop|puerto rico,MusicBrainz,100,1995,2015,23830,792,30
+5441c29d-3602-4898-b1a1-b77fa23b8e50,David Bowie,Person,male,,1947,English singer‐songwriter,glam rock|art rock|pop|alternative rock|rock,MusicBrainz,100,1965,1976,274228,9006,30
+9fff2f8a-21e6-47de-a2b8-7f449929d43f,Drake,Person,male,CA,1986,Canadian rapper,hip hop|r&b|pop rap|contemporary r&b|alternative r&b,MusicBrainz,96,2006,2012,4947,159,30
+6f1a58bf-9b1b-49cf-a44a-6cefad7ae04f,Dua Lipa,Person,female,GB,1995,,pop|dance-pop|electropop|contemporary r&b|synth-pop,MusicBrainz,100,2015,2018,354696,11076,30
+b8a7c51f-362c-4dcb-a259-bc6e0095f0a6,Ed Sheeran,Person,male,GB,1991,UK singer‐songwriter,pop|folk pop|folk|singer-songwriter|uk,MusicBrainz,100,2005,2012,790047,8798,30
+01809552-4f87-45b0-afff-2c6f0730a3be,Elvis Presley,Person,male,US,1935,“The King of Rock and Roll”,rockabilly|rock and roll|rock|country|pop,MusicBrainz,100,1954,1959,316346,10461,30
+b95ce3ff-3d05-4e87-9e01-c97b66af13d4,Eminem,Person,male,US,1972,US rapper,hip hop|rap|detroit|hardcore hip hop|pop rap,MusicBrainz,100,1988,2000,219744,7277,30
+197450cd-0124-4164-b723-3c22dd16494d,Frank Sinatra,Person,male,US,1915,"American singer and actor, “Ol’ Blue Eyes”",jazz|swing|vocal jazz|traditional pop|big band,MusicBrainz,100,1939,1946,218145,7122,30
+5bdeb32d-56a5-4b6d-a768-264101fa0a0a,J Balvin,Person,male,CO,1985,,reggaeton|hip hop|latin|pop|latin pop,MusicBrainz,100,2009,2017,21332,589,30
+f82bcf78-5b69-4622-a5ef-73800768d9ac,JAŸ-Z,Person,male,US,1969,US rapper,pop rap|east coast hip hop|hip hop|grammy winner|boom bap,MusicBrainz,0,,,38,1,23
+e0140a67-e4d1-4f13-8a01-364355bee46e,Justin Bieber,Person,male,CA,1994,,pop|teen pop|2010s|dance-pop|r&b,MusicBrainz,100,2009,2013,193210,5571,30
+0eb17834-1d29-47ef-a422-9dc68d73c5e4,Kanye West Tribute Band,Group,,,,,,MusicBrainz,0,,,0,,0
+122d63fc-8671-43e4-9752-34e846d62a9c,Katy Perry,Person,female,US,1984,,pop|pop rock|electropop|dance-pop|bubblegum pop,MusicBrainz,100,2001,2010,175253,5571,30
+381086ea-f511-4aba-bdf9-71c753dc5077,Kendrick Lamar,Person,male,US,1987,,hip hop|conscious hip hop|jazz rap|west coast hip hop|rap,MusicBrainz,100,2004,2013,120842,3792,30
+650e7db6-b795-4eb5-a702-5ea2fc46c848,Lady Gaga,Person,female,US,1986,,pop|dance-pop|electropop|pop rock|synth-pop,MusicBrainz,100,2005,2009,693540,10096,30
+afdb7919-059d-43c1-b668-ba1d265e7e42,Marvin Gaye,Person,male,US,1939,,soul|funk|motown|smooth soul|pop soul,MusicBrainz,100,1961,1985,109931,3512,30
+f27ec8db-af05-4f36-916e-3d57f91ecf5e,Michael Jackson,Person,male,US,1958,“King of Pop”,pop|dance-pop|disco|contemporary r&b|pop soul,MusicBrainz,100,1971,1982,747904,24325,30
+1036b808-f58c-4a3e-b461-a2c4492ecf1b,Nicki Minaj,Person,female,US,1982,,hip hop|pop|electronic|pop rap|queen of rap,MusicBrainz,100,2004,2011,187868,3874,30
+6925db17-f35e-42f3-a4eb-84ee6bf5d4b0,Olivia Rodrigo,Person,female,US,2003,US singer‐songwriter,pop|pop rock|pop punk|singer-songwriter|power pop,MusicBrainz,100,2016,2022,372831,10346,30
+070d193a-845c-479f-980e-bef15710653e,Prince,Person,male,US,1958,“The Artist Formerly Known as…”,funk|pop|rock|contemporary r&b|funk rock,MusicBrainz,100,1978,1980,10316,336,30
+0383dadf-2a4e-4d10-a46a-e9e041da8eb3,Queen,Group,,GB,1970,UK rock group,rock|glam rock|hard rock|british|art rock,MusicBrainz,100,1973,1979,5341,177,30
+73e5e69d-3554-40d8-8516-00cb38737a1c,Rihanna,Person,female,US,1988,Barbadian R&B/pop singer,pop|r&b|dance-pop|contemporary r&b|hip hop,MusicBrainz,100,2005,2007,219076,7263,30
+1882fe91-cdd9-49c9-9956-8e06a3810bd4,Sabrina Carpenter,Person,female,US,1999,,pop|electropop|dance-pop|2020s|american,MusicBrainz,100,2011,2021,232782,6703,30
+bf24ca37-25f4-4e34-9aec-460b94364cfc,Shakira,Person,female,CO,1977,Colombian singer-songwriter,pop|latin pop|pop rock|dance-pop|latin,MusicBrainz,100,1991,2004,225602,7219,30
+1ee18fb3-18a6-4c7f-8ba0-bc41cdd0462e,Stevie Wonder,Person,male,US,1950,,soul|funk|pop|contemporary r&b|rhythm & blues,MusicBrainz,100,1962,1976,209316,5997,30
+20244d07-534f-4eff-b4d4-930878889970,Taylor Swift,Person,female,US,1989,,pop|country|country pop|singer/songwriter|female vocals,MusicBrainz,100,2002,2008,581303,14855,30
+b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d,The Beatles,Group,,GB,1960,"UK rock band, “The Fab Four”",rock|pop|pop rock|british|psychedelic pop,MusicBrainz,100,1962,1964,294075,9328,30
+c8b03190-306c-4120-bb0b-6f2ebfc06ea9,The Weeknd,Person,male,CA,1990,Canadian R&B singer,r&b|dance-pop|contemporary r&b|alternative r&b|synth-pop,MusicBrainz,100,2011,2015,151638,4648,30
+0307edfc-437c-4b48-8700-80680e66a228,Whitney Houston,Person,female,US,1963,,contemporary r&b|pop|soul|dance-pop|pop soul,MusicBrainz,100,1984,1993,233834,6606,30
